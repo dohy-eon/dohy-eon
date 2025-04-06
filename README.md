@@ -11,18 +11,18 @@
 
 #### 🌟 Stats
 
-<a href="https://github.com/titeotty">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=titeotty&theme=buefy" />
+<a href="https://github.com/dohy-eon">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dohy-eon&theme=buefy" />
 </a>
-<a href="https://github.com/titeotty">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=titeotty&layout=compact&langs_count=8&card_width=320&theme=buefy" />
+<a href="https://github.com/dohy-eon">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dohy-eon&layout=compact&langs_count=8&card_width=320&theme=buefy" />
 </a>
 
 #### 😺 Doggi
 
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=titeotty&utm_content=line">
     <img
-      src="https://render.gitanimals.org/lines/titeotty?pet-id=683125777336644768"
+      src="https://render.gitanimals.org/lines/dohy-eon?pet-id=683125777336644768"
       width="480"
       height="120"
     />
