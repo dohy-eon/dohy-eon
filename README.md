@@ -1,6 +1,6 @@
 ## 최도현 | Dohyeon Choi 🍒
-#### 🎯 Focusing On
-[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind)](https://skillicons.dev)
+#### 🎯 Focusing On ...
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 #### ⚙️ Tech Stacks & Tools
 
