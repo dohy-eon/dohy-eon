@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=spring,mysql,mongodb,docker,idea)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,bootstrap,tailwind,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind,js,ts,vscode)](https://skillicons.dev)
 
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
