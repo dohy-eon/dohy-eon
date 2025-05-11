@@ -35,7 +35,7 @@
 </a>
 <a href="https://dohy-eon.github.io/">
   <img 
-        src="http://img.shields.io/badge/-Portfolio-black?style=flat&logo=Portfolio&link=https://dohy-eon.github.io/"
+        src="http://img.shields.io/badge/-Portfolio-black?style=flat&logo=Portfolio&link=https://rose-tray-606.notion.site/10e7ae28f6ba802a9629c134d6eb4828"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
