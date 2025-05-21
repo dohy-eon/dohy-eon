@@ -9,7 +9,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dohy-eon&theme=buefy" />
 </a>
 <a href="https://github.com/dohy-eon">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dohy-eon&layout=compact&langs_count=6&card_width=320&theme=buefy" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dohy-eon&layout=compact&langs_count=6&card_width=315&theme=buefy" />
 </a>
 
 #### 😺 Doggi
