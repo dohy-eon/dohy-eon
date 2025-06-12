@@ -1,3 +1,13 @@
+![Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohy-eon&hide=stars&show_icons=true&count_private=true&bg_color=fff&text_color=3D3B40&icon_color=DDD7B5&title_color=DDD7B5)
+<a href="https://github.com/devxb/gitanimals">
+<img
+    src="https://render.gitanimals.org/lines/dohy-eon?pet-id=716549041760358184"
+    width="300"
+    height="180"
+  />
+</a>
+
+<!--
 ## 최도현 | Dohyeon Choi 🍒
 #### 🎯 Focusing On ...
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,ts)](https://skillicons.dev)
@@ -38,7 +48,7 @@
         src="http://img.shields.io/badge/-Portfolio-black?style=flat&logo=Portfolio&link=https://rose-tray-606.notion.site/10e7ae28f6ba802a9629c134d6eb4828"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+--!>
 <!-- <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftiteotty&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
 </a> -->
