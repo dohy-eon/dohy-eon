@@ -24,7 +24,7 @@
 - **TOEIC 910** | 2022.05
 
 ## Stats
-![Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohy-eon&hide=stars&show_icons=true&count_private=true&bg_color=fff&text_color=3D3B40&icon_color=DDD7B5&title_color=DDD7B5)
+![Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohy-eon&hide=stars&show_icons=true&count_private=true&bg_color=fff&text_color=17171B&icon_color=17171B&title_color=17171B)
 <a href="https://github.com/devxb/gitanimals">
 <img
     src="https://render.gitanimals.org/lines/dohy-eon?pet-id=716549041760358184"
