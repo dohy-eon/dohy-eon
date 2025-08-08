@@ -1,3 +1,29 @@
+<p align="center">
+    <Strong>Main Stack</Strong><br>
+</p>
+
+<p align="center" display="inline-block">
+    <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,ts" alt="My Skills" />
+</a>
+
+</p>
+
+## Activity
+- **전국 IT 연합 동아리 University MakeUs Challenge 9th** | 동양미래대 회장 - 2025.08 ~ Present | 
+- **동양미래대학교 컴퓨터공학부 전공동아리 다솜** | 학술팀장 - 2024.12 ~ Present | 
+- **DND 13th** | Web Frontend - 2025.07 ~ 2025.08 | 
+- **동양미래대학교 컴퓨터공학부 전공동아리 다솜** | 기획부장 - 2024.09 ~ 2024.12 | 
+- **전국 IT 연합 동아리 9oormthon univ 3rd** | Web Frontend - 2024.07 ~ 2024.11 | 
+- **동양미래대학교 컴퓨터공학부 전공동아리 MIT** | 2023.03 ~ 2024.09 | 
+
+## Qualifications & Experience
+- **구름톤 유니브 3기 단풍톤** | Frontend - 2024.10 | [Github Repo](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_20_FE)
+- **동양미래대학교 컴퓨터공학부 솜커톤 1기** | 2024.05 | 대상
+- **동양미래대학교 AI PD Lab 부트캠프** | 2023.12 | 우수상
+- **TOEIC 910** | 2022.05
+
+## Stats
 ![Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohy-eon&hide=stars&show_icons=true&count_private=true&bg_color=fff&text_color=3D3B40&icon_color=DDD7B5&title_color=DDD7B5)
 <a href="https://github.com/devxb/gitanimals">
 <img
