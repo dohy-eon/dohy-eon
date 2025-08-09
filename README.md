@@ -18,6 +18,7 @@
 - **동양미래대학교 컴퓨터공학부 전공동아리 MIT** | 2023.03 ~ 2024.09 | 
 
 ## Qualifications & Experience
+- **동양미래대학교 생성형 AI 해커톤** | 2025.02 | 장려상
 - **구름톤 유니브 3기 단풍톤** | Frontend - 2024.10 | [Github Repo](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_20_FE)
 - **동양미래대학교 컴퓨터공학부 솜커톤 1기** | 2024.05 | 대상
 - **동양미래대학교 AI PD Lab 부트캠프** | 2023.12 | 우수상
