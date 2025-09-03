@@ -18,10 +18,10 @@
 - **동양미래대학교 컴퓨터공학부 전공동아리 MIT** | 2023.03 ~ 2024.09 | 
 
 ## Projects
-- **전공동아리 다솜 - 홈페이지** | PM, Design, Backend, Frontend - [다솜 홈페이지](https://dmu-dasom.or.kr)
-- **AI기반 고민 상담 서비스 - 달토끼** | PM, Design, Backend, Frontend - [달토끼 홈페이지](https://moonrabbit-web.kro.kr/)
-- **DND 13기 - minu** | Frontend - [minu](https://github.com/dnd-side-project/dnd-13th-3-frontend)
-- **구름톤 유니브 3기 단풍톤 - MixMix** | Frontend - [MixMix](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_20_FE)
+- **전공동아리 다솜 홈페이지 -** [다솜 홈페이지](https://dmu-dasom.or.kr)
+- **AI기반 고민 상담 서비스 -** [달토끼](https://moonrabbit-web.kro.kr/)
+- **DND 13기 -** [minu](https://github.com/dnd-side-project/dnd-13th-3-frontend)
+- **구름톤 유니브 3기 단풍톤 -** [MixMix](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_20_FE)
 - **CLI 기반 리액트 세팅 툴 킷 -** [react kit cli](https://github.com/dohy-eon/react-kit-cli)
 - **직업 큐레이션 서비스 -** [Curpick](https://github.com/dohy-eon/CurPick_Backend)
 - **독서 커뮤니티 플랫폼 -** [책이랑](https://github.com/dohy-eon/ChaekIRang)
