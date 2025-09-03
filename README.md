@@ -9,7 +9,7 @@
 
 </p>
 
-## Activity
+## Activities
 - **전국 IT 연합 동아리 University MakeUs Challenge 9th** | 동양미래대 회장 - 2025.08 ~ Present | 
 - **동양미래대학교 컴퓨터공학부 전공동아리 다솜** | 학술팀장 - 2024.12 ~ Present | 
 - **DND 13th** | Web Frontend - 2025.07 ~ 2025.08 | 
@@ -17,12 +17,14 @@
 - **전국 IT 연합 동아리 9oormthon univ 3rd** | Web Frontend - 2024.07 ~ 2024.11 | 
 - **동양미래대학교 컴퓨터공학부 전공동아리 MIT** | 2023.03 ~ 2024.09 | 
 
-## Qualifications & Experience
-- **동양미래대학교 생성형 AI 해커톤** | 2025.02 | 장려상
-- **구름톤 유니브 3기 단풍톤** | Frontend - 2024.10 | [Github Repo](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_20_FE)
-- **동양미래대학교 컴퓨터공학부 솜커톤 1기** | 2024.05 | 대상
-- **동양미래대학교 AI PD Lab 부트캠프** | 2023.12 | 우수상
-- **TOEIC 910** | 2022.05
+## Projects
+- **전공동아리 다솜 - 홈페이지** | PM, Design, Backend, Frontend - [다솜 홈페이지](https://dmu-dasom.or.kr)
+- **AI기반 고민 상담 서비스 - 달토끼** | PM, Design, Backend, Frontend - [달토끼 홈페이지](https://moonrabbit-web.kro.kr/)
+- **DND 13기 - minu** | Frontend - [minu](https://github.com/dnd-side-project/dnd-13th-3-frontend)
+- **구름톤 유니브 3기 단풍톤 - MixMix** | Frontend - [MixMix](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_20_FE)
+- **CLI 기반 리액트 세팅 툴 킷 -** [react kit cli](https://github.com/dohy-eon/react-kit-cli)
+- **직업 큐레이션 서비스 -** [Curpick](https://github.com/dohy-eon/CurPick_Backend)
+- **독서 커뮤니티 플랫폼 -** [책이랑](https://github.com/dohy-eon/ChaekIRang)
 
 ## Stats
 ![Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohy-eon&hide=stars&show_icons=true&count_private=true&bg_color=fff&text_color=17171B&icon_color=17171B&title_color=17171B)
