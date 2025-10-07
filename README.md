@@ -10,25 +10,25 @@
 </p>
 
 ## Activities
-- **전국 IT 연합 동아리 University MakeUs Challenge 9th** | 동양미래대 회장 - 2025.08 ~ Present | 
-- **동양미래대학교 컴퓨터공학부 전공동아리 다솜** | 학술팀장 - 2024.12 ~ Present | 
-- **DND 13th** | Web Frontend - 2025.07 ~ 2025.08 | 
-- **동양미래대학교 컴퓨터공학부 전공동아리 다솜** | 기획부장 - 2024.09 ~ 2024.12 | 
-- **전국 IT 연합 동아리 9oormthon univ 3rd** | Web Frontend - 2024.07 ~ 2024.11 | 
-- **동양미래대학교 컴퓨터공학부 전공동아리 MIT** | 2023.03 ~ 2024.09 | 
+- **전국 IT 연합 동아리 University MakeUs Challenge 9th** | 동양미래대 회장 - 2025.08 ~ Present  
+- **동양미래대학교 컴퓨터공학부 전공동아리 다솜** | 학술팀장 - 2024.12 ~ Present 
+- **DND 13th** | Web Frontend - 2025.07 ~ 2025.08 
+- **동양미래대학교 컴퓨터공학부 전공동아리 다솜** | 기획부장 - 2024.09 ~ 2024.12 
+- **전국 IT 연합 동아리 9oormthon univ 3rd** | Web Frontend - 2024.07 ~ 2024.11 
+- **동양미래대학교 컴퓨터공학부 전공동아리 MIT** | 2023.03 ~ 2024.09 
 
 ## Projects
-- **전공동아리 다솜 홈페이지 -** [다솜 홈페이지](https://dmu-dasom.or.kr)
-- **AI기반 고민 상담 서비스 -** [달토끼](https://moonrabbit-web.kro.kr/)
-- **DND 13기 -** [minu](https://github.com/dnd-side-project/dnd-13th-3-frontend)
-- **구름톤 유니브 3기 단풍톤 -** [MixMix](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_20_FE)
-- **CLI 기반 리액트 세팅 툴 킷 -** [react kit cli](https://github.com/dohy-eon/react-kit-cli)
-- **직업 큐레이션 서비스 -** [Curpick](https://github.com/dohy-eon/CurPick_Backend)
-- **독서 커뮤니티 플랫폼 -** [책이랑](https://github.com/dohy-eon/ChaekIRang)
+- **전공동아리 다솜 홈페이지** | [다솜 홈페이지](https://dmu-dasom.or.kr)
+- **AI기반 고민 상담 서비스** | [달토끼](https://moonrabbit-web.kro.kr/)
+- **디지털 디톡스 서비스** | DND 13th | [minu](https://github.com/dnd-side-project/dnd-13th-3-frontend)
+- **유학생을 연결하는 커뮤니티 서비스** | 구름톤 유니브 3기 단풍톤 | [MixMix](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_20_FE)
+- **CLI 기반 리액트 세팅 툴 킷** | 개인 프로젝트 | [react kit cli](https://github.com/dohy-eon/react-kit-cli)
+- **직업 큐레이션 서비스** | 개인 프로젝트 | [Curpick](https://github.com/dohy-eon/CurPick_Backend)
+- **독서 커뮤니티 플랫폼** | 2024 YA 백엔드 실습 5조 | [책이랑](https://github.com/dohy-eon/ChaekIRang)
 
-## Open Source Contribution
-- **ko.react.dev** | React 공식 문서 한국어 번역 작업 | [PR Link](https://github.com/reactjs/ko.react.dev/commits/main/?author=dohy-eon)
-- **summary_of_technical_books** | 전문가를 위한 리액트 오탈자 수정 작업 | [PR_Link](https://github.com/saseungmin/summary_of_technical_books/commits/main/?author=dohy-eon)
+## Open Source Contributions
+- **ko.react.dev** | React 공식 문서 한국어 번역 작업 | [커밋 링크](https://github.com/reactjs/ko.react.dev/commits/main/?author=dohy-eon)
+- **summary_of_technical_books** | 전문가를 위한 리액트 오탈자 수정 작업 | [커밋 링크](https://github.com/saseungmin/summary_of_technical_books/commits/main/?author=dohy-eon)
 ## Stats
 ![Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohy-eon&hide=stars&show_icons=true&count_private=true&bg_color=fff&text_color=17171B&icon_color=17171B&title_color=17171B)
 <a href="https://github.com/devxb/gitanimals">
