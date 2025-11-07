@@ -12,7 +12,7 @@
 ## Activities
 - **전국 IT 연합 동아리 University MakeUs Challenge 9th** | 동양미래대 회장 - 2025.08 ~ Present  
 - **동양미래대학교 컴퓨터공학부 전공동아리 다솜** | 학술팀장 - 2024.12 ~ Present 
-- **DND 13th** | Web Frontend - 2025.07 ~ 2025.08 
+- **DND 13th** | Web Frontend - 2025.07 ~ 2025.08 | [활동회고](https://dohy.tistory.com/12)
 - **동양미래대학교 컴퓨터공학부 전공동아리 다솜** | 기획부장 - 2024.09 ~ 2024.12 
 - **전국 IT 연합 동아리 9oormthon univ 3rd** | Web Frontend - 2024.07 ~ 2024.11 
 - **동양미래대학교 컴퓨터공학부 전공동아리 MIT** | 2023.03 ~ 2024.09 
@@ -23,8 +23,6 @@
 - **디지털 디톡스 서비스** | DND 13th | [minu](https://github.com/dnd-side-project/dnd-13th-3-frontend)
 - **유학생을 연결하는 커뮤니티 서비스** | 구름톤 유니브 3기 단풍톤 | [MixMix](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_20_FE)
 - **CLI 기반 리액트 세팅 툴 킷** | 개인 프로젝트 | [react kit cli](https://github.com/dohy-eon/react-kit-cli)
-- **직업 큐레이션 서비스** | 개인 프로젝트 | [Curpick](https://github.com/dohy-eon/CurPick_Backend)
-- **독서 커뮤니티 플랫폼** | 2024 YA 백엔드 실습 5조 | [책이랑](https://github.com/dohy-eon/ChaekIRang)
 
 ## Open Source Contributions
 - **ko.react.dev** | React 공식 문서 한국어 번역 작업 | [커밋 링크](https://github.com/reactjs/ko.react.dev/commits/main/?author=dohy-eon)
