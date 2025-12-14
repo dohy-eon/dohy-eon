@@ -11,7 +11,7 @@
 
 ## Activities
 - **전국 IT 연합 동아리 University MakeUs Challenge 9th** | 동양미래대 회장 - 2025.08 ~ Present  
-- **동양미래대학교 컴퓨터공학부 전공동아리 다솜** | 학술팀장 - 2024.12 ~ Present 
+- **동양미래대학교 컴퓨터공학부 전공동아리 다솜** | 학술팀장 - 2024.12 ~ 2025.12 
 - **DND 13th** | Web Frontend - 2025.07 ~ 2025.08 | [활동회고](https://dohy.tistory.com/12)
 - **동양미래대학교 컴퓨터공학부 전공동아리 다솜** | 기획부장 - 2024.09 ~ 2024.12 
 - **전국 IT 연합 동아리 9oormthon univ 3rd** | Web Frontend - 2024.07 ~ 2024.11 
