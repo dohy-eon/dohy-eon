@@ -32,10 +32,10 @@
 ![Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohy-eon&hide=stars&show_icons=true&count_private=true&bg_color=fff&text_color=17171B&icon_color=17171B&title_color=17171B)
 <a href="https://github.com/devxb/gitanimals">
 <img
-    src="https://render.gitanimals.org/lines/dohy-eon?pet-id=716549041760358184"
-    width="300"
-    height="180"
-  />
+  src="https://render.gitanimals.org/farms/dohy-eon"
+  width="300"
+  height="180"
+/>
 </a>
 
 <!--
