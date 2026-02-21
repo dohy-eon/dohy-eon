@@ -30,6 +30,8 @@
 ## Open Source Contributions
 - **ko.react.dev** | React 공식 문서 한국어 번역 작업 | [커밋 링크](https://github.com/reactjs/ko.react.dev/commits/main/?author=dohy-eon)
 - **summary_of_technical_books** | 전문가를 위한 리액트 오탈자 수정 작업 | [커밋 링크](https://github.com/saseungmin/summary_of_technical_books/commits/main/?author=dohy-eon)
+
+<!--
 ## Stats
 ![Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohy-eon&hide=stars&show_icons=true&count_private=true&bg_color=fff&text_color=17171B&icon_color=17171B&title_color=17171B)
 <a href="https://github.com/devxb/gitanimals">
@@ -39,3 +41,4 @@
   height="180"
 />
 </a>
+-->
