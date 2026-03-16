@@ -18,14 +18,15 @@
 - **동양미래대학교 컴퓨터공학부 전공동아리 MIT** | 2023.03 ~ 2024.09 
 
 ## Projects
-- **똑똑한 금융 서비스** | UMC 9th | [Valuedi](https://valuedi-web.vercel.app/) | [Github](https://github.com/Valuedi/Valuedi_Web)
-- **전공동아리 다솜 홈페이지** | [다솜 홈페이지](https://dmu-dasom.or.kr) | [Github](https://github.com/DASOM-GitHub)
-- **AI기반 고민 상담 서비스** | [달토끼](https://moonrabbit-web.kro.kr/) | [Github](https://github.com/DMU-MoonRabbit)
-- **무드기반 콘텐츠 추천 서비스** | [Muuvi](https://muuvi.site/) | [Github](https://github.com/dohy-eon/muuvi_Web)
-- **디지털 디톡스 서비스** | DND 13th | [minu](https://github.com/dnd-side-project/dnd-13th-3-frontend)
+- **Google Gemini3 Hackathon Seoul 2026** | [YouTube Shield](https://github.com/euisuk-chung/gemini-hak-creator-hub)
+- **똑똑한 금융 서비스** | UMC 9th | [Valuedi](https://github.com/Valuedi/Valuedi_Web)
 - **온라인 이스포츠 아카데미 개발 외주** | [SGEA](https://sgea.kr/)
+- **전공동아리 다솜 홈페이지** | [다솜 홈페이지](https://dmu-dasom.or.kr) | [Github](https://github.com/DASOM-GitHub)
+- **무드기반 콘텐츠 추천 서비스** | [Muuvi](https://muuvi.site/) | [Github](https://github.com/dohy-eon/muuvi_Web)
+- **AI기반 고민 상담 서비스** | [달토끼](https://github.com/DMU-MoonRabbit)
+- **디지털 디톡스 서비스** | DND 13th | [minu](https://github.com/dnd-side-project/dnd-13th-3-frontend)
 - **유학생을 연결하는 커뮤니티 서비스** | 구름톤 유니브 3기 단풍톤 | [MixMix](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_20_FE)
-- **CLI 기반 리액트 세팅 툴 킷** | 개인 프로젝트 | [react kit cli](https://github.com/dohy-eon/react-kit-cli)
+- **CLI 기반 리액트 세팅 툴 킷** | [react kit cli](https://github.com/dohy-eon/react-kit-cli)
 
 ## Open Source Contributions
 - **ko.react.dev** | React 공식 문서 한국어 번역 작업 | [커밋 링크](https://github.com/reactjs/ko.react.dev/commits/main/?author=dohy-eon)
