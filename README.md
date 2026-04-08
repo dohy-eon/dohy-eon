@@ -25,11 +25,11 @@
 * **summary_of_technical_books** | [React 기술서 오탈자 수정](https://github.com/saseungmin/summary_of_technical_books/commits/main/?author=dohy-eon)
 
 ## Stats
-![Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohy-eon&hide=stars&show_icons=true&count_private=true&bg_color=fff&text_color=17171B&icon_color=17171B&title_color=17171B)
+![devstats](https://devstats-taupe.vercel.app/api/card?username=dohy-eon&track=https://open.spotify.com/track/4g29yTcJeT0Op12okfXkJh?si=760a432a78ec49d1&height=180&width=360)
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/dohy-eon"
-  width="340"
+  width="360"
 />
 </a>
 
@@ -39,7 +39,7 @@
 
 <p align="center">
     <a href="https://dohyeon-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/dohy3on">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
