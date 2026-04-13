@@ -25,7 +25,7 @@
 * **summary_of_technical_books** | [React 기술서 오탈자 수정](https://github.com/saseungmin/summary_of_technical_books/commits/main/?author=dohy-eon)
 
 ## Stats
-![devstats](https://devstats-taupe.vercel.app/api/card?username=dohy-eon&track=https://open.spotify.com/track/4g29yTcJeT0Op12okfXkJh?si=760a432a78ec49d1&height=180&width=360)
+![devstats](https://devstats-taupe.vercel.app/api/card?username=dohy-eon&track=https://open.spotify.com/track/4g29yTcJeT0Op12okfXkJh?si=760a432a78ec49d1&height=180&width=360&v=2)
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/dohy-eon"
