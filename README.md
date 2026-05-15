@@ -9,11 +9,11 @@
 
 ## Work
 
-* **(주)이맥스** | ERP 구축1팀 Fullstack Developer  
+* **(주)이맥스** | ERP 구축1팀
 * **SGEA** | 이스포츠 아카데미 웹 개발 (외주)
 
 ## Activities
-
+* **2026 OSSCA** | Javascript 문서 번역
 * **University MakeUs Challenge 9th** | Cassiopeia 지부장, 동양미래대 회장  
 * **DND 13th** | Web Frontend  
 * **9oormthon Univ 3rd** | Web Frontend  
