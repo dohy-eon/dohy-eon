@@ -1,52 +1,63 @@
 <p align="center">
-    <Strong>Main Stack</Strong><br>
-</p>
+<img width="736" height="245" alt="image" src="https://github.com/user-attachments/assets/70fb0dfa-e009-4103-a7b7-db1eb7b81610" />
 
-<p align="center" display="inline-block">
-    <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,ts" alt="My Skills" />
-</a>
-
-## Work
-
-* **(주)이맥스** | ERP 구축1팀
-* **SGEA** | 이스포츠 아카데미 웹 개발 (외주)
-
-## Activities
-* **2026 OSSCA** | Javascript 문서 번역
-* **University MakeUs Challenge 9th** | Cassiopeia 지부장, 동양미래대 회장  
-* **DND 13th** | Web Frontend  
-* **9oormthon Univ 3rd** | Web Frontend  
-* **동양미래대학교 전공 동아리 다솜** | 학술팀장 / 기획부장 
-
-## Open Source Contributions
-
-* **ko.react.dev** | [React 공식 문서 한국어 번역](https://github.com/reactjs/ko.react.dev/commits/main/?author=dohy-eon)  
-* **summary_of_technical_books** | [React 기술서 오탈자 수정](https://github.com/saseungmin/summary_of_technical_books/commits/main/?author=dohy-eon)
-
-## Stats
-![devstats](https://devstats-taupe.vercel.app/api/card?username=dohy-eon&track=https://open.spotify.com/track/4g29yTcJeT0Op12okfXkJh?si=760a432a78ec49d1&height=180&width=430&v=2)
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/dohy-eon"
-  width="360"
-/>
-</a>
-
-<p align="center">
-    <Strong>Contact</Strong><br>
 </p>
 
 <p align="center">
-    <a href="https://dohyeon-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge"/>
+  <a href="https://hyen.site">
+    <img src="https://img.shields.io/badge/Blog-1a1c20?style=for-the-badge"/>
   </a>
+
   <a href="https://www.linkedin.com/in/dohy3on">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://dohy.tistory.com">
-    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1a1c20?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---  
+
+<h3 align="center">About Me</h3>
+
+<p align="center">
+Frontend Developer creating thoughtful and intuitive interfaces.
+</p>
+
+<p align="center">
+Bringing together design decisions, product intentions,<br/>
+and engineering into experiences users can feel.
+</p>
+
+<p align="center">
+Also interested in design systems, frontend architecture, and creating products that feel intuitive and refined.
+</p>
+
+---  
+
+<h3 align="center">Open Source Contributions</h3>
+
+<div align="center">
+
+| Project                                                                                                                  | Contribution                                                        |
+| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| **[ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info)**                                      | Korean translation · documentation sync · merge conflict resolution |
+| **[ko.react.dev](https://github.com/reactjs/ko.react.dev/commits/main/?author=dohy-eon)**                                | Korean translation of the official React documentation              |
+| **[summary_of_technical_books](https://github.com/saseungmin/summary_of_technical_books/commits/main/?author=dohy-eon)** | Fixed typos and improved documentation quality                      |
 
 </div>
+
+---
+
+<h3 align="center">Stats</h3>
+
+<p align="center">
+  <img
+    src="https://devstats-taupe.vercel.app/api/card?username=dohy-eon&track=https://open.spotify.com/track/4g29yTcJeT0Op12okfXkJh?si=760a432a78ec49d1&height=180&width=430&v=2"
+    alt="stats"
+  />
+
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/dohy-eon"
+      width="360"
+    />
+  </a>
+</p>
