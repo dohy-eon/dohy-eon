@@ -50,7 +50,7 @@ Also interested in design systems, frontend architecture, and creating products 
 
 <p align="center">
   <img
-    src="https://devstats-taupe.vercel.app/api/card?username=dohy-eon&track=https://open.spotify.com/track/4g29yTcJeT0Op12okfXkJh?si=760a432a78ec49d1&height=180&width=430&v=2"
+    src="https://devstats-taupe.vercel.app/api/card?username=dohy-eon&theme=light&track=https://open.spotify.com/track/4g29yTcJeT0Op12okfXkJh?si=760a432a78ec49d1&height=180&width=430&v=2"
     alt="stats"
   />
 
